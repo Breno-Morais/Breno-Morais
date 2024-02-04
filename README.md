@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/breno-da-silva-morais-90186618a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 Who am I?
@@ -17,6 +11,11 @@ My Education:
 🇧🇷 I am pursuing a bachelor degree in Computer Science at Universidade Federal do Rio Grande do Sul
 🇫🇷 I am pursuing a Masters degree in Ingénierie des Systèmes d'Information at École Nationale Supérieure d'Informatique et de Mathématiques Appliquées
 
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/breno-da-silva-morais-90186618a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 --
 
 Languages:
@@ -42,4 +41,4 @@ Languages:
 Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Breno-Morais&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Moraislayout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Morais&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
